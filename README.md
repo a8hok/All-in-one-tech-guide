@@ -1,6 +1,6 @@
 # Bookmarks by Category
 
-5129 unique links, 590 duplicates removed.
+5129 unique links to learn tech skills
 
 ## Contents
 

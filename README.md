@@ -31,7 +31,7 @@
 - [Testing / Quality](#testing--quality) (40)
 - [Performance](#performance) (134)
 - [Mobile](#mobile) (6)
-- [Career / Roadmaps / Learning](#career--roadmaps--learning) (277)
+- [Roadmaps / Learning](#roadmaps--learning) (277)
 - [Cheatsheets](#cheatsheets) (105)
 - [Articles](#articles) (158)
 - [Others](#others) (131)
